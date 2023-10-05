@@ -5,7 +5,7 @@ Bem vindos(as)! Este é o repositório de uma landing-page de advocacia, criado 
 
 ## Tecnologias Utilizadas
 
-Landing page desenvolvido com HTML, CSS e JavaScript.
+Landing page desenvolvida com HTML, CSS e JavaScript.
 
 ## Acesse a página pelo navegador através do link:
 https:/-
