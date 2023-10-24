@@ -1,0 +1,17 @@
+.topopagina {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 40px;
+}
+
+.nomeacao {
+    display: flex;
+}
+
+.elementostopo {
+    align-items: center;
+    display: flex;
+    gap: 5vh;
+}
