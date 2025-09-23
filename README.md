@@ -1,7 +1,10 @@
 # landing-page-advocacia
 Projeto criado para um cliente.
 
-Bem vindos(as)! Este é o repositório de uma landing-page de advocacia, criado para um cliente. 
+Bem vindos(as)! Este é o repositório de uma landing-page de advocacia. 
+
+## Figma
+https://www.figma.com/design/Qt1khgIuqIkPmz4XYdAWJo/Landing-Page-advocacia?node-id=0-1&t=cgfQHTGMFsJjoOS2-1
 
 ## Tecnologias Utilizadas
 
