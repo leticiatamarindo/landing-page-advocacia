@@ -1,6 +1,4 @@
 # landing-page-advocacia
-Projeto criado para um cliente.
-
 Bem vindos(as)! Este é o repositório de uma landing-page de advocacia. 
 
 ## Figma
