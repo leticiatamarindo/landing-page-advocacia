@@ -12,9 +12,10 @@ Landing page desenvolvida com HTML, CSS e JavaScript.
 https:/-
 
 ## Autores:
-- Luiz Gustavo Oliveira dos Santos
 - Letícia Tamarindo de Souza
+- Luiz Gustavo Oliveira dos Santos
 
 ## Visite o perfil dos colaboradores:
-https://github.com/ApoloByte
 https://github.com/leticiatamarindo
+https://github.com/ApoloByte
+
